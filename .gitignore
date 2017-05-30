@@ -1,0 +1,10 @@
+node_modules/
+.idea/
+build/
+.gitconfig/
+build/
+build/single-vacancy.html
+build/single-news.html
+build/landing.html
+build/css/materialize.css
+build/css/basestyle.css
